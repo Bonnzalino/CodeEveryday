@@ -1,0 +1,43 @@
+* {
+    font-family: Helvetica;
+    margin: 1rem, 0.5rem;
+    padding: 0;
+}
+
+Header {
+    width: 100%;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./images/pattern.webp");
+    margin: 10px 0;
+}
+
+main {
+    width: 100%;
+    margin: 2rem 0;
+}
+
+topic {
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.main1 {
+    background-color: mediumspringgreen;
+}
+
+.main2 {
+    background-color: lightcoral;
+}
+
+.main3 {
+    background-color: skyblue;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
